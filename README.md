@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saisharan34/CodingDSA/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/Saisharan34/CodingDSA/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
