@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saisharan34/CodingDSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Saisharan34/CodingDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saisharan34/CodingDSA/tree/master/0169-majority-element) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Saisharan34/CodingDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saisharan34/CodingDSA/tree/master/0169-majority-element) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Saisharan34/CodingDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Saisharan34/CodingDSA/tree/master/0371-sum-of-two-integers) |
+## String
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Saisharan34/CodingDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 <!---LeetCode Topics End-->
